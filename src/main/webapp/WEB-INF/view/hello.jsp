@@ -24,6 +24,9 @@
                 ${hoidanit}
                 <button class="btn btn-warning">Submit</button>
             </h2>
+            <h3>
+                ${arrUsers}
+            </h3>
         </body>
 
         </html>
