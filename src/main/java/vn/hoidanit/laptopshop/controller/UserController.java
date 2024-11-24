@@ -59,4 +59,10 @@ public class UserController {
         return "admin/user/show";
     }
 
+    @RequestMapping("/admin/user/update/{id}") // GET
+    public String getUpdateUserPage(Model model) {
+        model.addAttribute("newUser", new User());
+        return "admin/user/update";
+    }
+
 }
