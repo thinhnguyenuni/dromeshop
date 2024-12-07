@@ -17,11 +17,15 @@ public class Order {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+
     private double totalPrice;
 
     private String receiverName;
+
     private String receiverAddress;
+
     private String receiverPhone;
+
     private String status;
 
     // user id
@@ -30,7 +34,7 @@ public class Order {
     private User user;
 
     @OneToMany(mappedBy = "order")
-    List<OrderDetail> orderDetails;
+    private List<OrderDetail> orderDetails;
 
     public long getId() {
         return id;
@@ -100,4 +104,5 @@ public class Order {
     public String toString() {
         return "Order [id=" + id + ", totalPrice=" + totalPrice + "]";
     }
+
 }
