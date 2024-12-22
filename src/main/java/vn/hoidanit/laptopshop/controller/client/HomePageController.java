@@ -103,4 +103,9 @@ public class HomePageController {
         return "client/cart/order-history";
     }
 
+    @GetMapping("/aboutus")
+    public String getAboutUs() {
+        return "client/homepage/aboutus";
+    }
+
 }

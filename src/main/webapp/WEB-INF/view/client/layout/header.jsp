@@ -15,6 +15,7 @@
                         <div class="navbar-nav">
                             <a href="/" class="nav-item nav-link active">Trang Chủ</a>
                             <a href="/products" class="nav-item nav-link">Sản Phẩm</a>
+                            <a href="/aboutus" class="nav-item nav-link">Về chúng tôi</a>
 
                         </div>
                         <div class="d-flex m-3 me-0">
