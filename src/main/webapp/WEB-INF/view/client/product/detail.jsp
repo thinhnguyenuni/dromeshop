@@ -160,31 +160,36 @@
                                                 <ul class="list-unstyled fruite-categorie">
                                                     <li>
                                                         <div class="d-flex justify-content-between fruite-name">
-                                                            <a href="#"><i class="fas fa-apple-alt me-2"></i>Apples</a>
+                                                            <a href="#"><i class="fas fa-star me-2"></i>Thần
+                                                                Phong</a>
                                                             <span>(3)</span>
                                                         </div>
                                                     </li>
                                                     <li>
                                                         <div class="d-flex justify-content-between fruite-name">
-                                                            <a href="#"><i class="fas fa-apple-alt me-2"></i>Dell</a>
+                                                            <a href="#"><i class="fas fa-star me-2"></i>Thiên
+                                                                Ngoại</a>
                                                             <span>(5)</span>
                                                         </div>
                                                     </li>
                                                     <li>
                                                         <div class="d-flex justify-content-between fruite-name">
-                                                            <a href="#"><i class="fas fa-apple-alt me-2"></i>Asus</a>
+                                                            <a href="#"><i class="fas fa-star me-2"></i>Thiên
+                                                                Long</a>
                                                             <span>(2)</span>
                                                         </div>
                                                     </li>
                                                     <li>
                                                         <div class="d-flex justify-content-between fruite-name">
-                                                            <a href="#"><i class="fas fa-apple-alt me-2"></i>Acer</a>
+                                                            <a href="#"><i class="fas fa-star me-2"></i>Chu
+                                                                Tước</a>
                                                             <span>(8)</span>
                                                         </div>
                                                     </li>
                                                     <li>
                                                         <div class="d-flex justify-content-between fruite-name">
-                                                            <a href="#"><i class="fas fa-apple-alt me-2"></i>Lenovo</a>
+                                                            <a href="#"><i class="fas fa-star me-2"></i>Khắc
+                                                                Đông</a>
                                                             <span>(5)</span>
                                                         </div>
                                                     </li>
